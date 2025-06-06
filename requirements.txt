@@ -1,4 +1,4 @@
-Flask
+Flask[async]
 requests
 flask-cors
 gevent
